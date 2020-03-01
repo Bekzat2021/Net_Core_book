@@ -1,0 +1,11 @@
+C:\Users\Becza\Desktop\C#\SecondApp\bin\Debug\netcoreapp2.1\SecondApp.deps.json
+C:\Users\Becza\Desktop\C#\SecondApp\bin\Debug\netcoreapp2.1\SecondApp.runtimeconfig.json
+C:\Users\Becza\Desktop\C#\SecondApp\bin\Debug\netcoreapp2.1\SecondApp.runtimeconfig.dev.json
+C:\Users\Becza\Desktop\C#\SecondApp\bin\Debug\netcoreapp2.1\SecondApp.dll
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.csprojAssemblyReference.cache
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.RazorAssemblyInfo.cache
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.RazorAssemblyInfo.cs
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.AssemblyInfoInputs.cache
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.AssemblyInfo.cs
+C:\Users\Becza\Desktop\C#\SecondApp\obj\Debug\netcoreapp2.1\SecondApp.RazorTargetAssemblyInfo.cache

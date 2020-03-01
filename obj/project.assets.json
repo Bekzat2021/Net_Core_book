@@ -11791,6 +11791,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.AspNetCore.Mvc.Core >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -11802,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Becza\\Desktop\\C#\\FirstApp\\FirstApp.csproj",
-      "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\Becza\\Desktop\\C#\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\Becza\\Desktop\\C#\\SecondApp\\SecondApp.csproj",
+      "projectName": "SecondApp",
+      "projectPath": "C:\\Users\\Becza\\Desktop\\C#\\SecondApp\\SecondApp.csproj",
       "packagesPath": "C:\\Users\\Becza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Becza\\Desktop\\C#\\FirstApp\\obj\\",
+      "outputPath": "C:\\Users\\Becza\\Desktop\\C#\\SecondApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11841,6 +11842,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Mvc.Core": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
